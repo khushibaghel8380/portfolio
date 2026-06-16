@@ -182,11 +182,11 @@ li a:hover::before{
     gap: 5rem;
 }
 .experience-img{
-    width:25vw;
+    width:25vw; 
     max-width:400px;
     height:auto;
-    border-radius:1rem;
-}
+    border-radius:2rem;
+} 
 .grid{
     display:grid;
     grid-template-columns: repeat(2,1fr);
